@@ -1,6 +1,6 @@
 # Torch App
 
-An android torch app for Android 7.0(Nougat) or higher.
+An android unit conversion application for Android 7.0 (Nougat) or higher.
 
 ## Demo:
 
