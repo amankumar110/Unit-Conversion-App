@@ -1,6 +1,6 @@
 # Torch App
 
-An android torch app for Android 6.0 or higher.
+An android torch app for Android 7.0(Nougat) or higher.
 
 ## Demo:
 
