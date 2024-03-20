@@ -1,4 +1,4 @@
-# Torch App
+# Unit Conversion App
 
 An android unit conversion application for Android 7.0 (Nougat) or higher.
 
